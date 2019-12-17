@@ -1,0 +1,8 @@
+User-agent: *
+Host: https://prof-grad.ru
+Sitemap: https://prof-grad.ru/sitemap.xml
+Disallow: /js
+Disallow: /css
+Disallow: /fonts
+Disallow: /scss
+Disallow: /img
